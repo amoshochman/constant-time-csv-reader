@@ -1,2 +1,2 @@
 # constant-time-csv-reader
-A class for accessing CSVs in a fast (constant) time
+An utility for accessing CSVs in a fast (constant) time
